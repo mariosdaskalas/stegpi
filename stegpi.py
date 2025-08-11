@@ -1,1 +1,6 @@
 print("Steganography with Python: Hiding Messages in Images")
+print('Image Credits')
+
+print('Image by <a href="https://pixabay.com/users/mvstudio-33905403/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7855464">MV Studio MV</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7855464">Pixabay</a>')
+print('Image by <a href="https://pixabay.com/users/thomazyauh-39121641/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8319526">Thomaz</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8319526">Pixabay</a>')
+print('Image by <a href="https://pixabay.com/users/seowoo_lee-21601663/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7715246">seowoo lee</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7715246">Pixabay</a>')
